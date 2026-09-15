@@ -354,7 +354,6 @@ Sensitive deployment-specific configurations, integrations, tuning parameters, a
 <img width="946" height="957" alt="Screenshot From 2026-09-15 21-09-02" src="https://github.com/user-attachments/assets/d553b089-74e1-4676-9d08-679ff4dac34c" />
 
 
-<img width="940" height="313" alt="Screenshot From 2026-09-10 19-47-26" src="https://github.com/user-attachments/assets/061a3f78-0c8c-4081-be1f-67bd8fb13cc2" />
 
 
 ## Connect With Me
